@@ -16,3 +16,27 @@ body {
 img {
   width:100%;
 }
+
+a {
+  color: #555;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #999;
+  text-decoration: underline;
+}
+
+h1,
+h2 {
+  font-family: "Crimson Text", sans-serif;
+
+}
+
+h1 {
+  color: #222;
+}
+
+h2 {
+  color: #555
+}
